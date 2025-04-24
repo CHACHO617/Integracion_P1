@@ -1,0 +1,7 @@
+com\example\demo\ApacheCamelApplication.class
+com\example\demo\PedidoFileRoute.class
+com\example\demo\ResultadoExamenService.class
+com\example\demo\ResultadoExamenRepository.class
+com\example\demo\CsvToDatabaseProcessor.class
+com\example\demo\DBConnection.class
+com\example\demo\model\ResultadoExamen.class

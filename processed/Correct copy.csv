@@ -1,6 +1,0 @@
-laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
-1,1001,Examen de sangre,Normal,2025-04-23
-2,1002,Examen de orina,Alterado,2025-04-22
-1,1003,Examen de rayos X,Normal,2025-04-21
-3,1004,Examen de ECG,Normal,2025-04-20
-2,1005,Examen de sangre,Normal,2025-04-19

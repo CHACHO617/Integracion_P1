@@ -1,0 +1,5 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+2,5000,Examen de tiroides,Alterado,2025-04-19
+2,5001,Examen de colesterol,Normal,2025-04-19
+1,5002,Examen de ojos,Alterado,2025-04-19
+

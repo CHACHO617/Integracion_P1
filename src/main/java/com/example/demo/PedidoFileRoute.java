@@ -19,7 +19,7 @@ public class PedidoFileRoute extends RouteBuilder {
             .choice()
                 .when(exchange -> exchange.getProperty("validCsv", Boolean.class))
                     .to("file:processed")
-                    //.process(new CsvToDatabaseProcessor()) // Insertar en DB
+                    .process(new CsvToDatabaseProcessor()) // Insertar en DB
                 .otherwise()
                     .to("file:error")
             .end();
